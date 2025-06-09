@@ -1,5 +1,5 @@
 /*.pdf
-  Content-Encoding: identity
+  Cache-Control: public,max-age=0,no-transform
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Headers: Range
   Access-Control-Expose-Headers: Content-Range
