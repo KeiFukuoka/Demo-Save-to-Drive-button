@@ -1,5 +1,5 @@
 /*.pdf
-  Contact-Encoding: identity
+  Content-Encoding: identity
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Headers: Range
   Access-Control-Expose-Headers: Content-Range
