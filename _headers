@@ -1,0 +1,4 @@
+/sample.pdf
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Headers: Range
+  Access-Control-Expose-Headers: Contact-Range
